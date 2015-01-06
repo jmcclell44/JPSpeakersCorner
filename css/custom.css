@@ -1,0 +1,39 @@
+/* this is my custom CSS */
+body{
+	padding-top: 70px;
+	text-align: left;
+	background: #FFFFFF
+}
+
+p{
+	font-size: 10px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+ 
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
+.container-fluid{
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+.row-margin{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
