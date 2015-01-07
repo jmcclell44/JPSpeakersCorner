@@ -1,6 +1,7 @@
 /* this is my custom CSS */
 body{
-	padding-top: 70px;
+	padding-top: 35px;
+	padding-bottom: 35px;
 	text-align: left;
 	background: #FFFFFF
 }
